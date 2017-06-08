@@ -19,7 +19,7 @@
 
     "autoload": {
         "psr-4": {
-            "walkboy\\yii2-success-counter\\": ""
+            "walkboy\\SuccessCounter\\": ""
         }
     }
 }
