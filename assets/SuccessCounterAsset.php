@@ -6,10 +6,9 @@ use yii\web\AssetBundle;
 
 class SuccessCounterAsset extends AssetBundle
 {
-	public $sourcePath = '@frontend/widgets/SuccessCounter/assets';
+	public $sourcePath = '@walkboy/SuccessCounter/assets';
 
 	public $css = [
-		//'css/google.maps.css'
 	];
 
 	public $js = [
